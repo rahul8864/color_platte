@@ -1,0 +1,2 @@
+# Color Palette Hover Effect with HTML and CSS
+![image](https://user-images.githubusercontent.com/74202040/224610861-0cce1496-048e-4d6b-a90c-151e9b3d43eb.png)
